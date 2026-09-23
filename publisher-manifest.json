@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9f512244b8892f6a1dde9c78",
+  "owner": "dhbwbpdpjq",
+  "repo": "page-df689ea16f4db09fc73ae106",
+  "title": "色拉加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "df689ea16f4db09fc73ae106",
+      "a": "色拉加速",
+      "b": "2027官方最新地址导航",
+      "entity": "色拉加速",
+      "brand": "色拉加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "604016d82331b4cc116addf20cb99571f07f40641aa04582fa60da5f4a00c095",
+      "content": {
+        "primary_entity": "色拉加速",
+        "keyword1": "色拉加速",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择合适的客户端，订阅配置更顺畅。",
+          "AI_CLIENTS_TITLE": "客户端按设备选",
+          "AI_CLOSING_TEXT": "选定套餐后按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐即刻连接",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置和套餐对比展开说明：基础版适合手机与平板轻度使用，旗舰版增加在线设备数与流媒体解锁，团队版面向多设备办公场景。客户端按 Windows、macOS、Android、iOS 分别提供配置文档，导入订阅后即可连接。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按实际在线设备数挑选。",
+          "AI_FEATURE_TEXT_2": "每月 100GB 到 1000GB 流量区间，覆盖日常浏览与高清流媒体需求。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，适合长期使用。",
+          "AI_FEATURE_TITLE_1": "按设备数",
+          "AI_FEATURE_TITLE_2": "按流量档",
+          "AI_FEATURE_TITLE_3": "按周期付",
+          "AI_GUIDE_INTRO": "选择服务、确认适配要求、配置订阅三步完成。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "色拉加速提供多档海外网络加速服务，按设备数量与流量需求分为基础版、旗舰版与团队版。选择合适套餐后，对照客户端文档配置订阅，即可在不同设备上使用。",
+          "AI_HERO_SUBTITLE": "多设备套餐随意选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "7x24 优先工单支持",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版中选定套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备限制与客户端适配要求，确认系统版本满足条件。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅链接，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "色拉加速套餐速览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅？",
+          "AI_FAQ_ANSWER_1": "在客户端内找到订阅管理或配置导入功能，粘贴订阅链接并更新。具体步骤请参考客户端使用文档。",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时几台设备使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出数量可能无法连接。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付比月付总价更优惠。例如旗舰版月付35元，年付350元，相当于节省一个月费用。",
+          "AI_FAQ_QUESTION_4": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_4": "流量按月重置，若提前用完可等待下月自动恢复，或升级到更高流量套餐。",
+          "AI_FAQ_QUESTION_5": "团队版可以定制路由吗？",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由，并可分配专属客户经理，如有需求请联系服务人员沟通方案。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "favcgg.cn",
+    "host": "favcgg.cn"
+  },
+  "file_hashes": {
+    "index.html": "40120f2edc00c9342f6a7c81389f1c8f2d87173d0361b3da990e38343650ada2",
+    "sitemap.xml": "5fffae637b41d812bd2ec8ab4d6d25f16fc0af61505d0366cdb341b101af4318",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "62701e5883c6bebefee8830815cc48efb5ad25cb40d9b6040adcb480bddf0b16",
+    "robots.txt": "782b572e8022451d57d01b87318b6c5d0616dc719dfb50b78b5934647d493170",
+    "3668e0c27cd854c1004cd336cf1072d4.txt": "c66ae1db8971fbb5b792dd4fc5ca5fac5fcc52c89158ad40b66f3dafff83dac9"
+  },
+  "revision": "a39aa262d5280ab2963df7bae509e7ec578219933752c726cceba1fe271be276"
+}
